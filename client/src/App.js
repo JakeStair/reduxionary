@@ -16,7 +16,7 @@ import Signup from './pages/Signup';
 import Nav from './components/Nav';
 // import { StoreProvider } from './utils/GlobalState';
 import store from '../src/utils/store';
-import {Provider} from 'react-redux' ;
+import { Provider } from 'react-redux' ;
 import Success from './pages/Success';
 import OrderHistory from './pages/OrderHistory';
 
