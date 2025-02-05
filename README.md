@@ -92,11 +92,17 @@ The app is fully functional, deployed, and follows modern React and Redux practi
 
 ## Screenshots
 
+### Example Screenshots
+
+![Home Page](https://i.imgur.com/9gRNGiY.png)
+![Cart Checkout](https://i.imgur.com/tNs7V3G.png)
+
 ## Deployed Application
 
-Live URL: [E-Commerce Platform](<>) - 
-GitHub Repository: [E-Commerce Platform Repo](<>)
+Live URL: [Shop-Shop](<https://reduxionary.onrender.com/>) 
+GitHub Repository: [Reduxionary](<https://github.com/JakeStair/reduxionary>)
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
